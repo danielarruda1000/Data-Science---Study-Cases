@@ -1,2 +1,3 @@
-# Data-Science---Study-Cases
-My progess in Data Science
+# Data-Science Study-Cases
+
+Original Repository of this study case: https://github.com/ParidhiGola/CardioGoodFitness---Descriptive-Statistics
